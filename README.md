@@ -13,4 +13,7 @@ An implementation of a school management system developed to demonstrate core **
 - **Language:** C++
 - **Concepts:** Virtual Functions, Encapsulation, Constructors/Destructors.
 
+## Copyright
 
+Copyright (c) 2025 Karol Bartnicki
+All rights reserved.
